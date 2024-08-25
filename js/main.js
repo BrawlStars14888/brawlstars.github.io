@@ -15,5 +15,5 @@ document.querySelector('.popup-close').addEventListener('click', function() {
 
 
 let popup__link = document.querySelector('.popup-block__link');
-const LINK = 'https://t.me/BrawlStars14888';
+const LINK = 'https://t.me/+uYAkw0eZekdjYTFi';
 popup__link.href = LINK;
